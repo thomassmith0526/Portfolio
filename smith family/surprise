@@ -1,27 +1,30 @@
 <!DOCTYPE html>
 <html lang="en-US">
+    <head>
+        <meta charset="UTF-8">
+        <title> Surprise</title>
+        <link rel="stylesheet" type="text/css" href="./style.css"/>
+    </head>
+    
+    <body>
+        <header>
+            <h1>Smith Family</h1>
+        </header>
+    
+        <main>
+            <section>
+                <h2>Kristyn is pregnant</h2>
+                <h3>YAY YAY YAY</h3>
+                <img src="https://media.istockphoto.com/id/1167624029/vector/parents-and-children-embracing-together-and-smile.jpg?s=612x612&w=0&k=20&c=VgZr8tMcAESNG963s3TJYJ_vHEPx8r1-IE46y94BMCM=" alt="happy family"/>
+    
+    
+            </section>
+            
+        </main>
+    
+    </body>
 
-<head>
-    <meta charset="UTF-8">
-    <title> Smith Family</title>
-    <link rel="stylesheet" type="text/css" href="./style.css"/>
-</head>
-
-<body>
-    <header>
-        <h1>Smith Family</h1>
-    </header>
-
-    <main>
-        <section>
-            <h2>Kristyn is pregnant</h2>
-            <h3>YAY YAY YAY</h3>
-            <img src="https://media.istockphoto.com/id/1167624029/vector/parents-and-children-embracing-together-and-smile.jpg?s=612x612&w=0&k=20&c=VgZr8tMcAESNG963s3TJYJ_vHEPx8r1-IE46y94BMCM=" alt="happy family"/>
-
-
-        </section>
-        
-    </main>
-
-</body>
+    <footer>
+        Smith Family growing by 1 
+    </footer>
 </html>
