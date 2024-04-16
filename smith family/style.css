@@ -10,19 +10,25 @@ header {
   color: gold
 }
 
-
+img {
+  position: relative;
+  justify-content: baseline;
+  } 
 
 
 body {
   h1 {
-    text-align: center; color: aquamarine;
+    text-align: center; color:aquamarine;
   }
   h2,h3 {
-text-align: left; 
-color: olivedrab;
+text-align: center; 
+color: orange;
+font-size: 50pt;
   }
   }
 
 footer {
   color: red;
+  text-align: center;
+  font-size: 70pt;
 }
