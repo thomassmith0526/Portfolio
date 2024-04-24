@@ -4,31 +4,43 @@
 
 
 header {
+  display: block;
   width: 100%;
   background-color: blueviolet;
   font-size: 24pt;
-  color: gold
+  color: gold;
+  text-align: center;
 }
-
+body {
+  background-color: lemonchiffon;
+}
+main{
+  filter: blur(20px);
+}
+main:hover {
+  filter: blur(0px);
+}
 img {
   position: relative;
   left: 600px;
   } 
-
-
-body {
-  h1 {
-    text-align: center; color:aquamarine;
+h2 {
+  color: violet;
+  text-align: right;
+  font-size: 50pt;
   }
-  h2,h3 {
-text-align: center; 
-color: orange;
-font-size: 50pt;
-  }
-  }
-
+h3 {
+  color: orange;
+  text-align: right;
+  font-size: 45pt;
+}
 footer {
-  color: red;
+  color: pink;
   text-align: center;
   font-size: 70pt;
+  filter: blur(20px);
+
+}
+footer:hover{
+  filter: blur(0px);
 }
