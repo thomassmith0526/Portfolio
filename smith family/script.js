@@ -15,3 +15,7 @@ for(let i = 0; i<babyGirlNames.length; i ++) {
 for( const babyName of babyBoyNames) {
     console.log(babyName)
 }
+
+babyBoyNames.sort()
+console.log(babyBoyNames)
+
